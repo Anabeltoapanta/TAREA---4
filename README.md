@@ -17,7 +17,8 @@ Comprender los diferentes tipos de circuitos electricos su funcionamiento y como
 
 Objetivos Específicos
 
--Conocer las composiciones de circuitos serie paralelos y mixtos y como resolverlos con la ayuda de la ley de  kirchoff y la ley de ohm
+* Conocer las composiciones de circuitos serie paralelos y mixtos y como resolverlos con la ayuda de la ley de  kirchoff y la ley de ohm
+* Determinar  y calcular  ecuaciones de rama, malla y nodo para una red.
 
 
 **2.MARCO TEÓRICO**
