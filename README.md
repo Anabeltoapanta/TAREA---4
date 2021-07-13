@@ -25,6 +25,9 @@ Objetivos Específicos
 
 CAPÍTULO 7
 
+![image](https://user-images.githubusercontent.com/85134094/125390083-dc2ceb00-e367-11eb-9095-b7867ed04e85.png)
+
+
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
 
 A)
