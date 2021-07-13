@@ -24,9 +24,6 @@ Objetivos Específicos
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 CAPÍTULO 7
-![Captura de pantalla (82)](https://user-images.githubusercontent.com/85134094/125390231-21511d00-e368-11eb-9e5f-bb519bec096f.png)
-
-
 
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
 
@@ -86,6 +83,14 @@ CAPÍTULO 8
 1. Encuentre el voltaje VS para el circuito de la figura 8-64.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%201.png)
+
+3. Vea el circuito de la figura 8-66:
+
+a. Encuentre la corriente I3.
+
+b. Determine los voltajes VS y V1.
+
+
 
 7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
