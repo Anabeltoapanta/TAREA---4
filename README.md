@@ -313,11 +313,29 @@ corrientes de lazo con determinantes.
 
 ![](
 
-39.
+39.Convierta cada una de las redes de la figura 8-92 en su configuración Y equivalente.
+
+![image](https://user-images.githubusercontent.com/85134094/125412697-c1b53a80-e384-11eb-8040-498d8c3c3a71.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125413421-53e925f9-9b5f-4c6e-b77f-008adeef04d6.png)
+
+41.Convierta cada una de las redes Y de la figura 8-94 en su configuración ⧍ equivalente.
+
+![image](https://user-images.githubusercontent.com/85134094/125413608-5d2eef18-d2e9-41ac-a96b-e525003cd93c.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125414105-54038fc0-97d7-4e84-9387-a2f1c665f4ce.png)
 
 43. Utilice las conversiones DELTA-Y o Y-DELTA, para encontrar la corriente I para el circuito de la figura 8-96.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2049.png)
+
+45. Repita el problema 43 para el circuito de la figura 8-98.
+
+![image](https://user-images.githubusercontent.com/85134094/125414419-1de2dc27-a5b6-4bbb-a6d1-18c36aadd8a8.png)
+
+47.Vea el circuito puente de la figura 8-100:
+
+![image](https://user-images.githubusercontent.com/85134094/125414649-1b073ff7-503c-44cd-a8d5-db659921a276.png)
 
 49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada
 resistor.
@@ -325,6 +343,7 @@ resistor.
 
 
 **4.VIDEO**
+
 
 
 
