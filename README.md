@@ -363,11 +363,11 @@ https://youtu.be/iIKEqmBxYvQ
 
 **5.CONCLUSIONES**
 
-1) Para el correcto cálculo de los elementos en un circuito se debe conocer previamente los diferentes conceptos que estos conllevan, 
+1.  Es claro que para el correcto cálculo de los elementos en un circuito se debe conocer previamente los diferentes conceptos que estos conllevan, 
 las diferentes formulas para circuitos serie  o paralelo nos ayudan mucho a simplificar circuitos con demasiados elementos, sin embargo cabe destacar que se debe 
 tener mucho cuidado al momento del calculo debido a la complejidad de dichas formulas. 
 
-2)Los diagramas de los circuitos no siempre estan dibujados de la forma estandar y algunos tienden a confundirnos por lo complejo que llegan hacer, sin embargo estos se pueden redibujar al punto donde podamos comprender sus elementos y asi facilitar los calculos, como por ejemplo pudimos encontrarnos con circuitos mixtos donde se utiliza la red puente para identificar resistencias abstractas para observar mejor la coneccion de los circuitos.
+2. Los diagramas de los circuitos no siempre estan dibujados de la forma estandar y algunos tienden a confundirnos por lo complejo que llegan hacer, sin embargo estos se pueden redibujar al punto donde podamos comprender sus elementos y asi facilitar los calculos, como por ejemplo pudimos encontrarnos con circuitos mixtos donde se utiliza la red puente para identificar resistencias abstractas para observar mejor la coneccion de los circuitos.
 
 
 
