@@ -11,10 +11,13 @@ AUTORES :
 
 **1.OBJETIVOS**
 
+Comprender los diferentes tipos de circuitos electricos su funcionamiento y como llegar a resolverlos de una manera practica y sencilla.
+
 
 
 Objetivos Específicos
 
+-Conocer las composiciones de circuitos serie paralelos y mixtos y como resolverlos con la ayuda de la ley de  kirchoff y la ley de ohm
 
 
 **2.MARCO TEÓRICO**
@@ -303,6 +306,8 @@ corrientes de lazo con determinantes.
 
 ![image](https://user-images.githubusercontent.com/85134094/125411000-1952a680-e383-11eb-977f-4dcfd80962ac.png)
 
+![image](https://user-images.githubusercontent.com/85134094/125417349-cd4f34ad-1de4-49a9-a587-03ae77e35444.png)
+
 35.Repita el problema 33 para el circuito de la figura 8-90
 
 ![image](https://user-images.githubusercontent.com/85134094/125411746-d04f2200-e383-11eb-954e-8f91fb082768.png)
@@ -337,6 +342,8 @@ corrientes de lazo con determinantes.
 
 ![image](https://user-images.githubusercontent.com/85134094/125414649-1b073ff7-503c-44cd-a8d5-db659921a276.png)
 
+![image](https://user-images.githubusercontent.com/85134094/125421218-4066c005-6adf-44f4-986d-7c77e61b326e.png)
+
 49. En el circuito puente de la figura 8-102 encuentre la corriente a través de cada
 resistor.
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2043.png)
@@ -350,8 +357,13 @@ resistor.
 
 **5.CONCLUSIONES**
 
+1) Para el correcto cálculo de los elementos en un circuito se debe conocer previamente los diferentes conceptos que estos conllevan, 
+las diferentes formulas para circuitos serie  o paralelo nos ayudan mucho a simplificar circuitos con demasiados elementos, sin embargo cabe destacar que se debe 
+tener mucho cuidado al momento del calculo debido a la complejidad de dichas formulas. 
 
+2)Los diagramas de los circuitos no siempre estan dibujados de la forma estandar y algunos tienden a confundirnos por lo complejo que llegan hacer, sin embargo estos se pueden redibujar al punto donde podamos comprender sus elementos y asi facilitar los calculos, como por ejemplo pudimos encontrarnos con circuitos mixtos donde se utiliza la red puente para identificar resistencias abstractas para observar mejor la coneccion de los circuitos.
 
+3)
 
 
 **6.BIBLIOGRAFÍA**
