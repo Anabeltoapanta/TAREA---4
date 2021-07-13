@@ -24,6 +24,7 @@ Objetivos Específicos
 * Analizar la diferencia  potencial entre dos puntos cualesquiera en un circuito serie-paralelo.
 
 **2.MARCO TEÓRICO**
+
 CAPÍTULO 7
 
 ![marco](https://user-images.githubusercontent.com/85134094/125462969-c82bcd5e-b2ce-4663-a224-b8e2e0e44eea.jpg)
