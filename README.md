@@ -313,6 +313,8 @@ corrientes de lazo con determinantes.
 
 ![](
 
+39.
+
 43. Utilice las conversiones DELTA-Y o Y-DELTA, para encontrar la corriente I para el circuito de la figura 8-96.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2049.png)
