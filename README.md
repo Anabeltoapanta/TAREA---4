@@ -107,7 +107,7 @@ a. Encuentre la corriente I3.
 
 b. Determine los voltajes VS y V1.
 
-![]()
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%203.jpg)
 
 7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
