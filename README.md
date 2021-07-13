@@ -136,6 +136,8 @@ c. Determine el voltaje Vab.
 
 8-3 Fuentes de corriente en paralelo y en serie
 
+15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
+
 8-4 Análisis de corriente de rama
 
 19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y
