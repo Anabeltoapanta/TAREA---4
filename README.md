@@ -15,6 +15,8 @@ AUTORES :
 
 Objetivos Específicos
 
+* Determinar la corriente a través de cualquier rama o componente de un circuito serie-paralelo,
+* Descubrir resistencia total de una red conectados serie o paralelo.
 
 
 **2.MARCO TEÓRICO**
