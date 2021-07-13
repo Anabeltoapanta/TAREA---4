@@ -24,6 +24,18 @@ Objetivos Específicos
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
 CAPÍTULO 7
+1. Para las redes de la figura 7-46, determine cuáles resistores y ramas están en serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT.
+![Captura de pantalla (82)](https://user-images.githubusercontent.com/85134094/125390231-21511d00-e368-11eb-9e5f-bb519bec096f.png)
+
+a)  
+Las Resistencias R2 y R3 estan en serie [R2+R3]
+Esta combinación esta en paralelo a la R4 [R2+R3]||R4
+Esta combinación esta en serie a la R1 y R5 : RT={[R2+R3]||R4}+R1+R5
+
+b)
+Las resistencias R1 y R2 forman una combinación en paralelo : R1||R2
+Las resistencias R3 y R4 forman otra combinación en paralelo: R3||R4
+Y estas dos combinaciones estan en serie  [R1||R2]+[R3||R4]
 
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
 
@@ -34,6 +46,11 @@ A)
 B)
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%203%20LITERAL%20B.png)
+
+5.Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión.
+a) RT =(R1||R2||R3)+(R4||R5)
+![image](https://user-images.githubusercontent.com/85134094/125391267-ca4c4780-e369-11eb-9722-7c30651fa05f.png)
+
 
 7-2 Análisis de circuitos en serie-paralelo
 
@@ -84,26 +101,11 @@ CAPÍTULO 8
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%201.png)
 
-3. Vea el circuito de la figura 8-66:
-
-a. Encuentre la corriente I3.
-
-b. Determine los voltajes VS y V1.
-
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%203.jpg)
-
-
 7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%207.png)
-
 cabe mencionar que que la fuente absorbe la enegia en el circuito.
-
-9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente
-equivalente.
-
-
 
 13. Vea el circuito de la figura 8-74:
 
