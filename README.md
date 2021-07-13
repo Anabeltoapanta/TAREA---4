@@ -19,7 +19,7 @@ Objetivos Específicos
 
 * Conocer las composiciones de circuitos serie paralelos y mixtos y como resolverlos con la ayuda de la ley de  kirchoff y la ley de ohm
 * Determinar  y calcular  ecuaciones de rama, malla y nodo para una red.
-
+* Determinar y diferenciar el voltaje o la corriente en cualquier elemento de una red de puente
 
 **2.MARCO TEÓRICO**
 CAPÍTULO 7
