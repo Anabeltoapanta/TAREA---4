@@ -75,18 +75,36 @@ b) RT=R1+(R2||R3)+[R4||(R5+R6)]
 
 a)
 
-![image](https://user-images.githubusercontent.com/85134094/125393838-48aae880-e36e-11eb-929c-a7a105903c4f.png)
+![image](https://user-images.githubusercontent.com/85134094/125393951-7c860e00-e36e-11eb-94bc-834f51d7f1ff.png)
 
 
 b)
 
-
-
+![image](https://user-images.githubusercontent.com/85134094/125395004-2ca84680-e370-11eb-8397-ea87bbb8bd19.png)
 
 
 9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
+
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%209.png)
 
+
+11. Vea el circuito de la figura 7-54.
+
+Encuentre las siguientes cantidades
+
+a.Rt
+
+b. It, I1 , I2, I3 , I4
+
+C.  vab, Vbc
+
+![image](https://user-images.githubusercontent.com/85134094/125395279-958fbe80-e370-11eb-98d2-985a430bd1f2.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125395325-aa6c5200-e370-11eb-8d45-3652cd1ba6aa.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125395547-f61efb80-e370-11eb-8ee7-0a7a70f81363.png)
+
+13.
 
 15. Vea los circuitos de la figura 7-58:
 
@@ -167,8 +185,6 @@ c. Determine el voltaje Vab.
 8-3 Fuentes de corriente en paralelo y en serie
 
 15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
-
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO15.jpg)
 
 8-4 Análisis de corriente de rama
 
