@@ -21,9 +21,13 @@ Objetivos Específicos
 
 
 **2.MARCO TEÓRICO**
+CAPÍTULO 7
 
 ![marco](https://user-images.githubusercontent.com/85134094/125462969-c82bcd5e-b2ce-4663-a224-b8e2e0e44eea.jpg)
 
+CAPÍTULO 8
+
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/MARCO%20TEORICO%208_page-0001.jpg)
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
