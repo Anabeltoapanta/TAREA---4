@@ -25,17 +25,26 @@ Objetivos Específicos
 
 CAPÍTULO 7
 1. Para las redes de la figura 7-46, determine cuáles resistores y ramas están en serie y cuáles en paralelo. Escriba una expresión para la resistencia total, RT.
+
 ![Captura de pantalla (82)](https://user-images.githubusercontent.com/85134094/125390231-21511d00-e368-11eb-9e5f-bb519bec096f.png)
 
 a)  
+
 Las Resistencias R2 y R3 estan en serie [R2+R3]
+
 Esta combinación esta en paralelo a la R4 [R2+R3]||R4
+
 Esta combinación esta en serie a la R1 y R5 : RT={[R2+R3]||R4}+R1+R5
 
+
 b)
+
 Las resistencias R1 y R2 forman una combinación en paralelo : R1||R2
+
 Las resistencias R3 y R4 forman otra combinación en paralelo: R3||R4
+
 Y estas dos combinaciones estan en serie  [R1||R2]+[R3||R4]
+
 
 3. Escriba una expresión para RT1 y RT2 para las redes de la figura 7-48.
 
@@ -48,14 +57,29 @@ B)
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%203%20LITERAL%20B.png)
 
 5.Las redes de resistores tienen las resistencias totales que se muestran a continuación. Dibuje un circuito que corresponda a cada expresión.
+
 a) RT =(R1||R2||R3)+(R4||R5)
+
 ![image](https://user-images.githubusercontent.com/85134094/125391267-ca4c4780-e369-11eb-9722-7c30651fa05f.png)
+
+b) RT=R1+(R2||R3)+[R4||(R5+R6)]
+
+![image](https://user-images.githubusercontent.com/85134094/125391556-51012480-e36a-11eb-9277-2956b700e1b1.png)
 
 
 7-2 Análisis de circuitos en serie-paralelo
 
+7.Determine la resistencia total para cada red de la figura 7-50.
+
+![Captura de pantalla (84)](https://user-images.githubusercontent.com/85134094/125391686-83128680-e36a-11eb-880d-0a2f0572a9ec.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125392116-37aca800-e36b-11eb-8c89-784dcf749b51.png)
+
+
 9. Calcule la resistencia Rab y Rcd en el circuito de la figura 7-52.
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%209.png)
+
+
 
 
 15. Vea los circuitos de la figura 7-58:
