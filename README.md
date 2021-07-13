@@ -15,10 +15,7 @@ AUTORES :
 
 Objetivos Específicos
 
-* Determinar la corriente a través de cualquier rama o componente de un circuito serie-paralelo.
-* Descubrir la resistencia total de una red conectados serie o paralelo.
-* Determinar el voltaje o la corriente en cualquier elemento de una red de puente.
-* Determinar y calcular ecuaciones de rama, malla y nodo para una red
+
 
 **2.MARCO TEÓRICO**
 
@@ -107,7 +104,12 @@ C.  vab, Vbc
 
 ![image](https://user-images.githubusercontent.com/85134094/125395547-f61efb80-e370-11eb-8ee7-0a7a70f81363.png)
 
-13.
+13.Vea el circuito de la figura 7-56. a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6. b. Encuentre los voltajes Vab y Vcd. c. Verifique que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.
+
+![image](https://user-images.githubusercontent.com/85134094/125397208-3c755a00-e373-11eb-95ba-7d25cf8cde29.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125398953-92e39800-e375-11eb-8ffe-7a3b93a664c2.png)
+
 
 15. Vea los circuitos de la figura 7-58:
 
@@ -139,6 +141,17 @@ b. Si R2 se ajusta para tener 2.5 k ¿cuál será el voltaje VL? Si se remueve 
 resistor de carga.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%2027.png)
+
+31.Vea el circuito de la figura 7-71:
+
+![image](https://user-images.githubusercontent.com/85134094/125400037-ff12cb80-e376-11eb-8fe7-31e37aac0077.png)
+
+a).Determine el intervalo del voltaje de salida (del mínimo al máximo que se espera cuando el potenciómetro se ajusta del mínimo al máximo
+
+b)Calcule R2 cuando Vsal=20V
+
+![image](https://user-images.githubusercontent.com/85134094/125400600-b576b080-e377-11eb-90f7-2aaf9c7f9708.png)
+
 
 33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL= 0ohm, 250 ohmios y 500 ohmios.
 
@@ -188,8 +201,6 @@ c. Determine el voltaje Vab.
 8-3 Fuentes de corriente en paralelo y en serie
 
 15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
-
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO15.jpg)
 
 8-4 Análisis de corriente de rama
 
