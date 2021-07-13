@@ -157,13 +157,32 @@ b)Calcule R2 cuando Vsal=20V
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%207/EJERCICIO%2033.png)
 
+35. Un voltímetro con una sensibilidad de S = 20 k Ω/V se usa en la escala de 10 V (con una resistencia interna total de 200 kΩ) para medir el voltaje en el resistor de 750 kΩ de la figura 7-74. El medidor indica un voltaje de 5.00 V. a. Determine el valor de la fuente de voltaje E. b. ¿Qué voltaje se presentará en el resistor de 750 kΩ cuando el voltímetro se quite del circuito? c. Calcule el efecto de carga del medidor cuando se utilice como se muestra. d. Si se usa el mismo voltímetro para medir el voltaje en el resistor de 200 kΩ, ¿Cuál será la lectura?
+
+![image](https://user-images.githubusercontent.com/85134094/125401426-c5db5b00-e378-11eb-918e-028c10c6de48.png)
+
+
+![image](https://user-images.githubusercontent.com/85134094/125401506-dee40c00-e378-11eb-8260-165de5ac61c9.png)
+
+
+37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76. a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1. b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito. c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.
+
+![image](https://user-images.githubusercontent.com/85134094/125401688-18b51280-e379-11eb-8435-df6780bdde30.png)
+
+a) El amperimetro se conecta en serie a cada elemento del circuito
+
+
+![image](https://user-images.githubusercontent.com/85134094/125403212-e3a9bf80-e37a-11eb-8735-26681ca7d5dd.png)
+
+
 CAPÍTULO 8
 
 8-1 Fuentes de corriente constante
 
 1. Encuentre el voltaje VS para el circuito de la figura 8-64.
 
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%201.png)
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%201.png)![Uploading image.png…]()
+
 
 3. Vea el circuito de la figura 8-66:
 
