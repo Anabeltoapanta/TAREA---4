@@ -109,6 +109,11 @@ b. Determine los voltajes VS y V1.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%203.jpg)
 
+8-2 Conversiones de fuente 
+
+9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
+
+
 7. Verifique que la potencia suministrada por las fuentes es igual a la suma de
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
 
