@@ -277,6 +277,19 @@ c)Determine el voltaje Vab.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2025.png)
 
+27.Utilice el análisis de malla para encontrar la corriente I2 en el circuito de la figura 8-81.
+
+![image](https://user-images.githubusercontent.com/85134094/125408504-96305100-e380-11eb-9f70-b717acb61e89.png)
+
+29.Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.
+
+![image](https://user-images.githubusercontent.com/85134094/125408713-cbd53a00-e380-11eb-8dd0-33155e344a1e.png)
+
+Redibujamos el circuito:
+
+![image](https://user-images.githubusercontent.com/85134094/125409573-a3017480-e381-11eb-802e-9719225fe5e4.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125410853-edcfbc00-e382-11eb-8b9e-05b69bede356.png)
 
 
 31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las
@@ -285,6 +298,16 @@ corrientes de lazo con determinantes.
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2031.png)
 
 8-6 Análisis de nodos
+
+33. Escriba las ecuaciones de Nodos para el circuito de la figura 8-88. Y encuentre los voltajes en los nodos.
+
+![image](https://user-images.githubusercontent.com/85134094/125411000-1952a680-e383-11eb-977f-4dcfd80962ac.png)
+
+35.Repita el problema 33 para el circuito de la figura 8-90
+
+![image](https://user-images.githubusercontent.com/85134094/125411746-d04f2200-e383-11eb-954e-8f91fb082768.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125411820-e826a600-e383-11eb-9839-392851cf2f31.png)
 
 37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6
 
