@@ -22,6 +22,7 @@ Objetivos Específicos
 
 **2.MARCO TEÓRICO**
 
+![marco](https://user-images.githubusercontent.com/85134094/125462969-c82bcd5e-b2ce-4663-a224-b8e2e0e44eea.jpg)
 
 
 **3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -351,9 +352,7 @@ resistor.
 
 **4.VIDEO**
 
-
-
-
+https://youtu.be/iIKEqmBxYvQ
 
 **5.CONCLUSIONES**
 
@@ -363,7 +362,6 @@ tener mucho cuidado al momento del calculo debido a la complejidad de dichas for
 
 2)Los diagramas de los circuitos no siempre estan dibujados de la forma estandar y algunos tienden a confundirnos por lo complejo que llegan hacer, sin embargo estos se pueden redibujar al punto donde podamos comprender sus elementos y asi facilitar los calculos, como por ejemplo pudimos encontrarnos con circuitos mixtos donde se utiliza la red puente para identificar resistencias abstractas para observar mejor la coneccion de los circuitos.
 
-3)
 
 
 **6.BIBLIOGRAFÍA**
