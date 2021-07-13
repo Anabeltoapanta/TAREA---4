@@ -195,7 +195,7 @@ b. Determine los voltajes VS y V1.
 
 ![image](https://user-images.githubusercontent.com/85134094/125403953-b27dbf00-e37b-11eb-9fa4-64e53159ad5d.png)
 
-
+![image](https://user-images.githubusercontent.com/85134094/125404561-5bc4b500-e37c-11eb-823d-a84157a200e5.png)
 
 
 8-2 Conversiones de fuente 
@@ -211,11 +211,16 @@ cabe mencionar que que la fuente absorbe la enegia en el circuito.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%209.jpg)
 
-![image](https://user-images.githubusercontent.com/85134094/125404292-1607ec80-e37c-11eb-899b-1ef522b8674b.png)
 
+11. Vea el circuito de la figura 8-72:
 
-11. 
+![image](https://user-images.githubusercontent.com/85134094/125405362-456b2900-e37d-11eb-9760-f46bbd481a3c.png)
 
+a)Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente.
+
+b) Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.
+
+![image](https://user-images.githubusercontent.com/85134094/125405268-2a001e00-e37d-11eb-8b33-65c93c09744b.png)
 
 13. Vea el circuito de la figura 8-74:
 
@@ -232,6 +237,16 @@ c. Determine el voltaje Vab.
 
 15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.
 
+![image](https://user-images.githubusercontent.com/85134094/125405692-9b3fd100-e37d-11eb-97f1-cb87c34efbab.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125406115-1acda000-e37e-11eb-9119-f8523682ddeb.png)
+
+17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kohm en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.
+
+![image](https://user-images.githubusercontent.com/85134094/125406313-50728900-e37e-11eb-94e9-3a56cb5a4c32.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125406402-6a13d080-e37e-11eb-9ceb-ef908c9cdde6.png)
+
 8-4 Análisis de corriente de rama
 
 19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y
@@ -241,10 +256,28 @@ encuentre las corrientes de rama mediante determinantes.
 
 8-5 Análisis de mallas (lazos)
 
+21.Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.
+
+![image](https://user-images.githubusercontent.com/85134094/125406646-ab0be500-e37e-11eb-92c1-577f557d7ed9.png)
+
+![image](https://user-images.githubusercontent.com/85134094/125406721-c4ad2c80-e37e-11eb-8d4f-9d1d9ce1259c.png)
+
+23.Vea el circuito de la figura 8-83:
+
+a)Escriba las ecuaciones de corriente de rama.
+
+b)Encuentre la corriente I2.
+
+c)Determine el voltaje Vab.
+
+![image](https://user-images.githubusercontent.com/85134094/125406979-0b028b80-e37f-11eb-87ac-f7a5f45ee6c9.png)
+
 25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura
 8-79 y encuentre las corrientes de lazo.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2025.png)
+
+
 
 31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las
 corrientes de lazo con determinantes.
