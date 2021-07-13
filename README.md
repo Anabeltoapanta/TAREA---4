@@ -181,8 +181,7 @@ CAPÍTULO 8
 
 1. Encuentre el voltaje VS para el circuito de la figura 8-64.
 
-![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%201.png)![Uploading image.png…]()
-
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%201.png)![image](https://user-images.githubusercontent.com/85134094/125403848-9d089500-e37b-11eb-8b5b-38cebae5974f.png)
 
 3. Vea el circuito de la figura 8-66:
 
@@ -191,6 +190,13 @@ a. Encuentre la corriente I3.
 b. Determine los voltajes VS y V1.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%203.jpg)
+
+5. Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.
+
+![image](https://user-images.githubusercontent.com/85134094/125403953-b27dbf00-e37b-11eb-9fa4-64e53159ad5d.png)
+
+
+
 
 8-2 Conversiones de fuente 
 
@@ -204,6 +210,11 @@ cabe mencionar que que la fuente absorbe la enegia en el circuito.
 9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%209.jpg)
+
+![image](https://user-images.githubusercontent.com/85134094/125404292-1607ec80-e37c-11eb-899b-1ef522b8674b.png)
+
+
+11. 
 
 
 13. Vea el circuito de la figura 8-74:
