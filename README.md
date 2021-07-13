@@ -97,7 +97,13 @@ b. Determine los voltajes VS y V1.
 las potencias disipadas por los resistores en el circuito de la figura 8-68.
 
 ![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%207.png)
+
 cabe mencionar que que la fuente absorbe la enegia en el circuito.
+
+9. Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente
+equivalente.
+
+
 
 13. Vea el circuito de la figura 8-74:
 
