@@ -324,7 +324,7 @@ corrientes de lazo con determinantes.
 
 37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6
 
-![](
+![](https://github.com/Anabeltoapanta/TAREA---4/blob/main/CAPITULO%208/C8%20EJERCICIO%2031.png)
 
 39.Convierta cada una de las redes de la figura 8-92 en su configuración Y equivalente.
 
